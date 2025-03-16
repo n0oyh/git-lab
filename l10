@@ -1,0 +1,16 @@
+1) git init
+
+2) git branch <name> or git checkout -b <name>
+
+3) git log, git log --oneline
+
+4) git add
+
+5) edit the conflict, git add, git commit
+
+6) git push origin <branch>
+
+7) git fetch downloads the latest changes from the remote but does not merge them into your local branch. git pull fetches the latest changes and merges them into your current branch.
+
+8) git checkout -- <file>
+
